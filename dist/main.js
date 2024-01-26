@@ -1,1 +1,1 @@
-(()=>{"use strict";document.body.appendChild(function(){const n=document.createElement("div");return n.innerHTML="Hi, my name is "+"Anderson",n}())})();
+(()=>{"use strict";document.body.appendChild(function(){const e=document.createElement("div"),n=document.createElement("div");return e.innerHTML="Hi, my name is "+"Anderson",n.innerHTML=(t=20,document.createElement("div").innerHTML=t),e.appendChild(n),e;var t}())})();
