@@ -9,6 +9,7 @@ module.exports = {
   },  
   plugins: [
     new HtmlWebpackPlugin({
+      template: './src/template.html',
       title: 'Webpack tutorial',
       filename: 'index.html',
       inject: 'body',
