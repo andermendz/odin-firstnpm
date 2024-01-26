@@ -1,0 +1,11 @@
+@font-face {
+  font-family: Inter;
+  src: url(./Inter.ttf);
+  font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: 'Inter';
+    background: url('./logo.png');
+  }
